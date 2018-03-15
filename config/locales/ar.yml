@@ -1,0 +1,34 @@
+ar:
+  helpers:
+    submit:
+      create: 'انشاء بوست'
+      update: 'تحديث بوست'
+  posts:
+    index:
+      header: بوست
+      title: العنوان
+      body: التفاصيل
+      show: عرض
+      edit: تعديل
+      destroy: مسح
+      new: بوست جديد
+    new:
+      header: بوست جديد
+      back: عودة
+    show:
+      title: العنوان
+      body: التفاصيل
+      edit: تعديل 
+      back: عودة
+    edit:
+      header: تعديل البوست
+      show: عرض
+      back: عودة   
+    form:
+      title: العنوان
+      body:  التفاصيل
+  activerecord:
+    attributes:
+      post: 
+        title: العنوان
+        body: التفاصيل

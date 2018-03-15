@@ -1,0 +1,34 @@
+en:
+  helpers:
+    submit:
+      create: 'Create Post'
+      update: 'Update Post'
+  posts:
+    index:
+      header: Post
+      title: Title
+      body: Body
+      show: Show
+      edit: Edit
+      destroy: Destroy
+      new: New Post
+    new:
+      header: New 
+      back: Back
+    show:
+      title: Title
+      body: Body
+      edit: Edit 
+      back: Back
+    edit:
+      header: Editing Post
+      show: Show
+      back: Back  
+    form:
+      title: Title
+      body: Body    
+  activerecord:
+    attributes:
+      post: 
+        title: Title
+        body: Body
